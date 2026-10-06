@@ -10,6 +10,7 @@
 ### Changed
 
 - Update license
+- Do not publish
 
 ## 1.0.4 - 2024-04-25
 
