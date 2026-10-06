@@ -92,10 +92,9 @@ packages:
   dna_audanika:
     dependency: "direct dev"
     description:
-      name: dna_audanika
-      sha256: b864df1905c6d3311b082e387a327ed721eb238e924ccfb2a81f43b836a36fa5
-      url: "https://pub.dev"
-    source: hosted
+      path: "../dna_audanika"
+      relative: true
+    source: path
     version: "0.0.1"
   dna_clean_code:
     dependency: transitive
