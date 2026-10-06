@@ -7,6 +7,10 @@
 - Add .gitattributes file
 - Add dna_audanika
 
+### Changed
+
+- Update license
+
 ## 1.0.4 - 2024-04-25
 
 ### Added
